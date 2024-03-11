@@ -1,5 +1,6 @@
 { 
  "name": "ChaiT Token",
  "symbol": "FCT",
- "uri": "https://raw.githubusercontent.com/Rahul-Prasad-07/Foundry/main/image.png"
+ "description": "Just a test for how to name your token, again and again ;)",
+ "image": "https://raw.githubusercontent.com/Rahul-Prasad-07/Foundry/main/image.png"
 }
