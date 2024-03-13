@@ -1,6 +1,5 @@
 { 
- "name": "ChaiT Token",
- "symbol": "FCT",
- "description": "Just a test for how to name your token, again and again ;)",
- "image": "https://raw.githubusercontent.com/Rahul-Prasad-07/Foundry/main/image.png"
+ "name": "ChaiT",
+ "symbol": "CHAIT",
+ "image": "https://gateway.lighthouse.storage/ipfs/QmZUmRJQsVJ2SnFF9UAJZobo9zR7QNNyxEhxXr7mGAGgwW"
 }
